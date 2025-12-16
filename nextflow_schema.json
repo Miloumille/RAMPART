@@ -17,7 +17,8 @@
           "default": "MPXV",
           "title": "Protocol",
           "enum": [
-            "MPXV"
+            "MPXV",
+            "EBOV"
           ],
 
           "description": "Specify the path to the organism protocols.",
@@ -39,7 +40,8 @@
           "default": "MPXV",
           "title": "Protocol",
           "enum": [
-            "MPXV"
+            "MPXV",
+            "EBOV"
           ],
 
           "description": "Specify the path to the organism protocols.",
